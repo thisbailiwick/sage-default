@@ -24,6 +24,6 @@
     }
   },
   "config": {
-    "devUrl": "http://example.test"
+    "devUrl": "http://bedrock-sage.localhost"
   }
 }
